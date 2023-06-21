@@ -47,3 +47,6 @@
 **Decoder**
 
 * Feature Pyramid Networks(FPN) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)]
+
+## 참고자료
+https://github.com/davidefiocco/streamlit-fastapi-model-serving.git
