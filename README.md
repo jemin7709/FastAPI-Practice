@@ -24,9 +24,11 @@
 
 **사용 예시**
 
+<div align=center>
 <img width="512" alt="스크린샷 2023-06-22 오전 11 03 24" src="https://github.com/jemin7709/Segmentation-Model-Serving-Basic/assets/68144124/70b0aaf0-c1ff-4549-af7a-94b6c40fc517">
 <br>
 <br>
+</div>
 
 ## 구조도
     .
