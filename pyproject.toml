@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "fastapi-practice"
+name = "Segmentation-Model-Serving-Basic"
 version = "0.1.0"
 description = ""
 authors = ["jemin7709 <jemin7709@naver.com>"]
 readme = "README.md"
-packages = [{include = "fastapi_practice"}]
+packages = [{include = "Segmentation-Model-Serving-Basic"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -16,6 +16,7 @@ torchvision = "^0.15.2"
 albumentations = "^1.3.1"
 python-multipart = "^0.0.6"
 aiofiles = "^23.1.0"
+streamlit = "^1.23.1"
 
 
 [build-system]
