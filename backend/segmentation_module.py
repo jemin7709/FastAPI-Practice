@@ -50,7 +50,7 @@ def label2rgb(label):
 
 
 def get_model():
-    model = torch.jit.load("../models/swin.pt", map_location="cpu")
+    model = torch.jit.load("../models/swin-fpn.pt", map_location="cpu")
     model.eval()
     return model
 
